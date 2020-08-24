@@ -5,7 +5,7 @@ MLeaksFinder helps you find memory leaks in your iOS apps at develop time. It ca
 
 # Communication
 QQ group: 482121244
-
+qq：378917043
 # Installation
 ```
 pod 'MLeaksFinder'
