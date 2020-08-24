@@ -17,3 +17,5 @@
 **4) 如何关掉 MLeaksFinder？**
 
 * MLeaksFinder 默认只在 debug 下生效，当然也可以通过 MLeaksFinder.h 里的 `//#define MEMORY_LEAKS_FINDER_ENABLED 0` 来手动控制开关。
+
+编辑mleaksfinder，链接数据库
